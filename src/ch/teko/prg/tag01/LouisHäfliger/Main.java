@@ -14,7 +14,7 @@ public class Main {
         auto.SetModell("Kuga");
         auto.setPS(160);
 
-        System.out.println("Louis");
+        System.out.println("Louis neu");
         System.out.println(auto.GetMarke());
         System.out.println(auto.GetModell());
         System.out.println(auto.GetPS());
